@@ -2,7 +2,7 @@
 <div class="container mx-5 my-5">
   <div class="row">
     <div class="col-4" *ngFor="let redSocial of redesSocialesList">
-      <div class="card text-center border-white">
+      <div class="card text-center border-white" (mouseenter)="animar(redSocial)" [@hover]="redSocial.animacion">
         <div class="card-body">
           <fa *ngIf="redSocial.estado" name="{{redSocial.icono}}" size="2x"></fa>
           <h5 class="card-title">{{ redSocial.nombre }}</h5>
