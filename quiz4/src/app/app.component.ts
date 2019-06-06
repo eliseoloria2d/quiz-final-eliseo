@@ -28,42 +28,42 @@ export class AppComponent {
     this.redesSocialesList.push({
       icono: "instagram",
       nombre: "Instagram",
-      descripcion: "Texto",
+      descripcion: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       estado: false,
       animacion: true
     });
     this.redesSocialesList.push({
       icono: "twitter",
       nombre: "Twitter",
-      descripcion: "Texto",
+      descripcion: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       estado: false,
       animacion: true
     });
     this.redesSocialesList.push({
       icono: "facebook-f",
       nombre: "Facebook",
-      descripcion: "Texto",
+      descripcion: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       estado: false,
       animacion: true
     });
     this.redesSocialesList.push({
       icono: "pinterest-p",
       nombre: "Printerest",
-      descripcion: "Texto",
+      descripcion: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       estado: false,
       animacion: true
     });
     this.redesSocialesList.push({
       icono: "google-plus",
       nombre: "Google",
-      descripcion: "Texto",
+      descripcion: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       estado: false,
       animacion: true
     });
     this.redesSocialesList.push({
       icono: "github",
       nombre: "Github",
-      descripcion: "Texto",
+      descripcion: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       estado: false,
       animacion: true
     });
